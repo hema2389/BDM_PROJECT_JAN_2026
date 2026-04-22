@@ -117,18 +117,9 @@ bdm-capstone-padmas-home-food/
 | Tool | Purpose |
 |---|---|
 | Microsoft Excel | Demand Forecasting, ABC, EOQ, ROP, Contribution Margin calculations |
-| Python (Google Colab) | Data analysis, visualisation, ES forecast validation |
+| Python (Google Colab) | Data analysis and visualisation |
 | pandas | Data loading, groupby, aggregation |
 | matplotlib | Charts — daily trend, day-of-week bar, meal category pie, ES forecast |
-
----
-
-## How to Run the Colab Notebook
-
-1. Open `notebooks/BDM_PROJECT.ipynb` in Google Colab
-2. Upload `data/Order_Data.csv` when prompted
-3. Run all cells in order
-4. Outputs: `daily_orders_trend.png`, `es_forecast.png`, `order_type.png`, `meal_category.png`, `forecasting_output.xlsx`
 
 ---
 
@@ -148,20 +139,10 @@ bdm-capstone-padmas-home-food/
 
 ## About the Organisation
 
-**Padma's Home Food** is a cloud kitchen operated by Mrs. Padmavathy Ravichandran through the [Cookr App](https://www.cookr.in) in Medavakkam, Chennai. Established February 2023. B2C model — 30+ authentic home-style Tamil dishes, served across breakfast, lunch, and dinner via regular and subscription orders.
+**Padma's Home Food** is a cloud kitchen operated by Mrs. Padmavathy Ravichandran in Chennai. Established February 2023. B2C model — 30+ authentic home-style Tamil dishes, served across breakfast, lunch, and dinner via regular and subscription orders.
 
 *Data collected with written consent from the business owner. All customer personal information removed before analysis.*
 
 ---
 
-## References
-
-1. Krajewski, L. J. et al. — *Operations Management: Processes and Supply Chain* (12th Ed.)
-2. Wirtz, J. & Lovelock, C. — *Services Marketing: People, Technology, Strategy*
-3. Newbold, P. — *Statistics for Business and Economics*
-4. Malhotra, N. & Dash, S. — *Marketing Research: An Applied Approach*
-5. Kasavana, M. L. & Smith, D. I. (1982) — Menu Engineering: A Practical Guide
-
----
-
-*BDM Capstone Project | IITM Online BS Degree Program | 2025*
+*BDM Capstone Project | IITM Online BS Degree Program | 2026*
