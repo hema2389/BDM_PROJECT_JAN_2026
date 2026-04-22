@@ -95,7 +95,7 @@ bdm-capstone-padmas-home-food/
 ├── excel/
 │   └── MASTER_MENU_SPREADSHEET.xlsx   # All Excel sheets: Forecasting, ABC, EOQ, CM
 │
-├── report/
+├── reportss/
 │   └── Final Submission.pdf
 ├── presentation/
 │   └── BDM_Viva_FINAL.pptx
