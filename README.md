@@ -89,12 +89,6 @@ This project analyses 567 real orders from a home cloud kitchen in Chennai to so
 ```
 bdm-capstone-padmas-home-food/
 │
-├── data/
-│   ├── Order_Data.csv
-│   ├── Menu_Details.csv
-│   ├── Ingredient_Costs.csv
-│   └── Operational_Events.csv
-│
 ├── notebooks/
 │   └── BDM_PROJECT.ipynb          # Google Colab analysis notebook
 │
@@ -102,8 +96,7 @@ bdm-capstone-padmas-home-food/
 │   └── MASTER_MENU_SPREADSHEET.xlsx   # All Excel sheets: Forecasting, ABC, EOQ, CM
 │
 ├── report/
-│   └── BDM_Final_Report_HemaVarshni_v2.docx
-│
+│   └── Final Submission.pdf
 ├── presentation/
 │   └── BDM_Viva_FINAL.pptx
 │
